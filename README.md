@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Ermeyas</h1>
 <h3 align="center">A fitness enthusiast and programmer.</h3>
-<h3 align="center"></h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/b0b58ffa7bd7542a0445f0bbaffb2c9a.gif">
 
 
