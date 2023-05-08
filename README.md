@@ -3,7 +3,6 @@
 <h3 align="center">A fitness enthusiast and programmer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4846149/screenshots/9988146/media/79414b0bd4fd8efc171522c9957446e6.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ermeyasgirma" alt="ermeyasgirma" /></a> </p>
 
 - 🔭 I’m currently working on a **Java Genetic Programming Library**
 
