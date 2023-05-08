@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ermeyas</h1>
 <h3 align="center">A fitness enthusiast and programmer.</h3>
 <br>
+<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/b0b58ffa7bd7542a0445f0bbaffb2c9a.gif">
 
 
