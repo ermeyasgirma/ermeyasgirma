@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))]
 <h1 align="center">Hi 👋, I'm Ermeyas</h1>
 <h3 align="center">A fitness enthusiast and programmer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4846149/screenshots/9988146/media/79414b0bd4fd8efc171522c9957446e6.gif">
