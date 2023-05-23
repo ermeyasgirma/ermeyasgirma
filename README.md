@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a **Java Genetic Programming Library**
 
-- 🌱 I’m currently learning **about distributed data stores**
+- 🌱 I’m currently learning **about consensus algorithms**
 
 - 👯 I’m looking to collaborate on **anything fun**
 
